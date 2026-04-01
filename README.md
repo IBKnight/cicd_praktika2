@@ -1,1 +1,1 @@
-![Test Status](https://github.com/IBKnight/ci_project/actions/workflows/ci.yml/badge.svg)
+![Test Status](https://github.com/IBKnight/cicd_praktika2/actions/workflows/ci.yml/badge.svg)
